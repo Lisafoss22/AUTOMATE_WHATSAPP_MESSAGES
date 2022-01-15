@@ -1,5 +1,5 @@
 import pywhatkit
-pywhatkit.sendwhatmsg('+9177678 52556', 'okay' ,17,26)
+pywhatkit.sendwhatmsg('+91 9881042248', 'okay' ,17,26)
 
 
 
